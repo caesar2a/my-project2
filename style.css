@@ -1,0 +1,109 @@
+
+@media only screen and (min-width: 768px){
+
+body{
+    background-color: rgb(60, 59, 59);
+}
+
+.car-ds1{
+    width: 35%;
+    height:380px;
+    padding:20px; 
+    background-color: white;
+    margin-top: 5%;
+}
+
+p{
+    font-size:25px;
+    margin-bottom:30%;
+    padding-left:8%;
+}
+
+.char{
+    background-color: brown;
+    font-size:30px;
+    color: white;
+    padding: 20px 30%;
+    margin-left:-15%;
+}
+
+.grid-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    grid-gap: 5px;  
+}
+
+.text-box{
+    background-color: rosybrown;
+    color: white;
+    padding:20px;
+    width:500px;
+    height:450px;
+}
+
+.text-box2{
+    background-color: purple;
+    color: white;
+    width:400px;
+    padding:20px;
+    margin-top:-5% ;
+    margin-left:-4%;
+}
+
+.button1{
+    color: blueviolet;
+    font-size:15px;
+    float:right;
+    margin:10px; 
+}
+
+input , textarea{
+    margin:5px;
+    width:50%;
+    margin-left:25% ;
+}
+
+.in-put{
+    background-color: white;
+    width:30%;
+    height:500px;
+    padding:8px;
+  
+}
+
+textarea{
+    height: 100px;
+    width: 50%;
+}
+
+.button2{
+    background-color: purple;
+    color: white;
+    width: 15%;
+    float: right;
+    margin-right:25%;
+}
+
+.header1{
+    color: gray;
+    margin-left: 25%;
+}
+
+.paragraph2{
+    background-color: purple;
+    height: 200px;
+    padding: 10px;
+    margin: 10%;
+    margin-right: -10%;   
+}
+
+#sp{
+    font-size: 30px;
+    padding: 5%;
+}
+
+.im-age4{
+    margin-top:-5%;
+}
+}
